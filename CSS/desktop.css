@@ -5,7 +5,18 @@
     font-family: Roboto;
 }
 
-.body-container {
+.body-container-header {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+.body-container-main {
+    max-width: 1180px;
+    margin: 0 auto;
+}
+
+.body-container-footer {
     max-width: 1180px;
     margin: 0 auto;
 }
