@@ -1,0 +1,7 @@
+@media (max-width: 768px){
+    .footer-container {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+}
