@@ -141,18 +141,6 @@
 
     /* FOOTER */
 
-    .footer-section {
-
-    }
-
-    .footer {
-        
-    }
-
-    .body-container-footer {
-        
-    }
-
     .footer-container {
         display: flex;
         flex-wrap: wrap;
@@ -161,74 +149,6 @@
 
     .footer-box-one {
         margin-left: 40px;
-    }
-    .footer-title-box {
-    }
-
-    .footer-logo-img-box {
-    }
-    .footer-logo-img {
-    }
-    .footer-title-text-box {
-    }
-    .footer-title-text {
-    }
-    .footer-untitle-text {
-    }
-    .footer-under-title-info-box {
-    }
-    .footer-left-title-box {
-    }
-    .footer-button-text-left {
-    }
-    .footer-text {
-    }
-    .footer-right-title-box {
-    }
-    .footer-box-two {
-        
-    }
-    .footer-second-title {
-    }
-    .footer-second-title-style {
-    }
-    .footer-list-info-box {
-    }
-    .footer-name {
-    }
-    .footer-adress {
-    }
-    .footer-phone-box {
-    }
-    .footer-phone-img {
-    }
-    .footer-button-phone {
-    }
-    .footer-phone-text {
-    }
-    .footer-social-media-buttons {
-    }
-    .footer-button-img {
-    }
-    .footer-instagram-box {
-    }
-    .footer-instagram-button {
-    }
-    .footer-instagram-logo {
-    }
-    .footer-instagram-text {
-    }
-    .footer-email-box {
-    }
-    .footer-email-button {
-    }
-    .footer-email-logo {
-    }
-    .footer-email-text {
-    }
-    .footer-copyright-box {
-    }
-    .footer-copyright-text {
     }
 
     /* FOOTER */
